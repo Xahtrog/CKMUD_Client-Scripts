@@ -1,0 +1,8 @@
+# CKMud script manifest — list one filename per line.
+# `ckupdate` fetches each of these from the same folder as this manifest
+# and reloads them live.  Blank lines and #-comments are ignored.
+# Lines can also be full http(s):// URLs to pull from elsewhere.
+
+CK.lua
+ck_triggers_bridge.lua
+ck_prompt_bridge.lua
