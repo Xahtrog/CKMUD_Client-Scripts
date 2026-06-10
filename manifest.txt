@@ -6,3 +6,4 @@
 CK.lua
 ck_triggers_bridge.lua
 ck_prompt_bridge.lua
+ck_loopfix_bridge.lua
